@@ -19,7 +19,7 @@ https://spynik420.github.io/AQUACALC/
 
 Использование в **личных и коммерческих целях разрешено**.
 
-Подробнее см. файл [LICENSE]LICENSE.txt)
+Подробнее см. файл [LICENSE]https://github.com/Spynik420/AQUACALC/blob/main/LICENSE.txt)
 
 ## ⚠️ Отказ от ответственности
 
